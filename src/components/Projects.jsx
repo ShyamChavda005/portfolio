@@ -8,7 +8,7 @@ function Projects() {
         {
             name: "Smart OPD",
             description:
-                "A web application built to solve a practical problem. It includes a responsive interface and backend functionality.",
+                "A web-based OPD management system for managing patients, doctors, appointments, and healthcare records through a responsive web interface.",
             tech: ["React.js", "FastAPI", "SQLAlchemy", "MySQL"],
             github: "https://github.com/ShyamChavda005/smart_opd.git",
             demo: "https://example.com"
@@ -16,7 +16,7 @@ function Projects() {
         {
             name: "GScheme",
             description:
-                "A full-stack application focused on clean UI, API integration, and efficient data management.",
+                "A full-stack web application that helps users discover and explore government schemes with a clean interface and efficient scheme data management.",
             tech: ["React.js", "Node.js", "Express.js", "SQLite"],
             github: "https://github.com/ShyamChavda005/scheme_finder.git",
             demo: "https://example.com"
@@ -24,7 +24,7 @@ function Projects() {
         {
             name: "Student Record Management ",
             description:
-                "A full-stack application focused on clean UI, API integration, and efficient data management.",
+                "A CLI-based student record management system that performs CRUD operations for managing student data using Java, JDBC, and MySQL.",
             tech: ["Java", "JDBC", "MySQL"],
             github: "https://github.com/ShyamChavda005/JDBC-CRUD-SMS.git",
             demo: "https://example.com"
@@ -32,7 +32,7 @@ function Projects() {
         {
             name: "HealthCare Appointment Booking",
             description:
-                "A full-stack application focused on clean UI, API integration, and efficient data management.",
+                "A web-based appointment booking system that allows patients to schedule healthcare appointments and manage booking information efficiently.",
             tech: ["PHP", "BootStrap", "JavaScript", "MySQL"],
             github: "https://github.com/ShyamChavda005/Online-appointment-system.git",
             demo: "https://example.com"
