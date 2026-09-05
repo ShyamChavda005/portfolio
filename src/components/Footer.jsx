@@ -10,7 +10,7 @@ function Footer() {
             <footer id="footer" className="max-w-5xl mx-auto px-4 pb-10">
                 <div className="flex justify-center items-center gap-6 mb-4 pt-5">
                     <a href="https://github.com/shyamchavda005" target="_blank" rel="noreferrer" className="hover:scale-110 transition-transform">
-                        <img src="../public/github.png" alt="GitHub" className="w-7 h-7 sm:w-8 sm:h-8 object-contain bg-white rounded-full p-0.5" />
+                        <img src="/github.png" alt="GitHub" className="w-7 h-7 sm:w-8 sm:h-8 object-contain bg-white rounded-full p-0.5" />
                     </a>
 
                     <a href="https://www.linkedin.com/in/shyamchavda005" target="_blank" rel="noreferrer" className="hover:scale-110 transition-transform">
