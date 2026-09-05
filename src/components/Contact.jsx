@@ -1,4 +1,3 @@
-
 function Contact() {
     return (
         <>
@@ -10,7 +9,7 @@ function Contact() {
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5">
 
-                    <a href="https://www.linkedin.com/in/shyamchavda005" target="__blank" className="w-full">
+                    <a href="https://www.linkedin.com/in/shyamchavda005" target="_blank" rel="noopener noreferrer" className="w-full">
                         <div className="flex justify-center items-center gap-3 sm:gap-4 rounded-2xl border border-gray-700 px-4 sm:px-6 py-4 sm:py-5 transition-colors hover:bg-slate-800">
                             <img src="/linkedin.png" alt="LinkedIn" className="w-8 h-8 sm:w-10 sm:h-10 object-contain shrink-0" />
 
@@ -20,7 +19,7 @@ function Contact() {
                         </div>
                     </a>
 
-                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shyamchavda005@gmail.com" target="__blank" rel="noopener noreferrer" className="w-full">
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shyamchavda005@gmail.com" target="_blank" rel="noopener noreferrer" className="w-full">
                         <div className="flex justify-center items-center gap-3 sm:gap-4 rounded-2xl border border-gray-700 px-4 sm:px-6 py-4 sm:py-5 transition-colors hover:bg-slate-800">
                             <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" className="w-8 h-8 sm:w-10 sm:h-10 object-contain shrink-0" />
 

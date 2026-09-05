@@ -1,9 +1,8 @@
 
-
 function Footer() {
     return (
         <>
-            <div className="py-6 sm:py-5 px-4 sm:px-10 w-full mx-auto"> 
+            <div className="py-6 sm:py-5 px-4 sm:px-10 w-full mx-auto">
                 <p className="border-b border-blue-400/40"> </p>
             </div>
 
@@ -14,7 +13,7 @@ function Footer() {
                     </a>
 
                     <a href="https://www.linkedin.com/in/shyamchavda005" target="_blank" rel="noreferrer" className="hover:scale-110 transition-transform">
-                        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" className="w-7 h-7 sm:w-8 sm:h-8 object-contain" />
+                        <img src="/linkedin.png" alt="LinkedIn" className="w-7 h-7 sm:w-8 sm:h-8 object-contain" />
                     </a>
 
                     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shyamchavda005@gmail.com" target="_blank" rel="noreferrer" className="hover:scale-110 transition-transform">
