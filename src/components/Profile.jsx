@@ -1,3 +1,5 @@
+import codeforces from "../assets/codeforces.png";
+
 function Profile() {
     return (
         <>
@@ -19,7 +21,7 @@ function Profile() {
 
                     <a href="https://codeforces.com/profile/Shyam_Chavda" target="__blank">
                         <div className="flex justify-center items-center gap-4 rounded-2xl border border-gray-700 px-4 sm:px-6 py-4 sm:py-5 transition-colors hover:bg-slate-800">
-                            <img src="/codeforces.png" alt="CodeForces" className="w-8 h-8 sm:w-10 sm:h-10 object-contain" />
+                            <img src={codeforces} alt="CodeForces" className="w-8 h-8 sm:w-10 sm:h-10 object-contain" />
                             <span className="text-base sm:text-lg text-gray-100 font-medium">
                                 CodeForces
                             </span>
